@@ -18,7 +18,7 @@
 # When setting this field to "pilot", please uncomment the
 # pilot_lesson_site, pilot_pre_survey, and pilot_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "dc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -40,7 +40,7 @@ curriculum: "FIXME"
 # value of the variable below ("flavor") to get the schedule and installation
 # instructions updated accordingly (valid values are 'r' or 'python').
 # Note: this is only for Data Carpentry and SWC at this time.
-flavor: "FIXME"
+flavor: "python"
 
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
@@ -48,7 +48,7 @@ flavor: "FIXME"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Python for Atmosphere and Ocean Science"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
