@@ -168,12 +168,10 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  The material of the lessons will be based on <a href="https://carpentries-lab.github.io/python-aos-lesson">Python for Atmosphere and Ocean Science</a>. If we can help making learning easier for
+  you in any way (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
-  attempt to provide them.
+  attempt to satisfy your request.
 </p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
