@@ -168,7 +168,7 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  The material of the lessons will be based on <a href="https://carpentries-lab.github.io/python-aos-lesson">Python for Atmosphere and Ocean Science</a>. If we can help making learning easier for
+  The material of the lessons will be based on <a href="https://pletzer.github.io/python-aos-lesson">Python for Atmosphere and Ocean Science</a>, which has been adapted for this workshop from <a href="https://carpentries-lab.github.io/python-aos-lesson/">Carpentries Lab: Python for Atmosphere and Ocean Science</a>. If we can help making learning easier for
   you in any way (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to satisfy your request.
